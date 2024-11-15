@@ -14,8 +14,8 @@ const Banner = () => {
         <h1 className="text-4xl  lg:w-1/3 text-center font-bold">Discover an exceptional cooking class tailored for you!</h1>
         <p className='mt-2'>"Find a personalized cooking class that suits your needs and interests!"</p>
        <div className='space-x-6 mt-5'>
-       <button className="btn  bg-[#0BE58A] border-none rounded-full btn-xs sm:btn-sm md:btn-md lg:btn-lg">Responsive</button>
-        <button className="btn btn-xs sm:btn-sm rounded-full glass text-white md:btn-md lg:btn-lg">Responsive</button>
+       <button className="btn  bg-[#0BE58A] border-none rounded-full btn-xs sm:btn-sm md:btn-md lg:btn-lg">Explore Now</button>
+        <button className="btn btn-xs sm:btn-sm rounded-full glass text-white md:btn-md lg:btn-lg">Our Feedback</button>
        </div>
         <p></p>
       </div>
